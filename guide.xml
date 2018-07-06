@@ -1,0 +1,978 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="BandNews">
+    <display-name lang="pt">BandNews</display-name>
+    <icon src="http://www.lineup.tv.br/canais/bandnews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cinemax.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="CNNe">
+    <display-name lang="pt">CNNe</display-name>
+    <icon src="http://www.lineup.tv.br/canais/cnne.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Combo Cine">
+    <display-name lang="pt">Combo Cine</display-name>
+    <icon src="http://www.lineup.tv.br/canais/combocine.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo Rio">
+    <display-name lang="pt">Globo Rio</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-rj.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globo-sp.gif|http://www.lineup.tv.br/canais/globo.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <icon src="http://www.lineup.tv.br/canais/globonews.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <programme start="20180706000000 -0300" stop="20180706020000 -0300" channel="BandNews">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706020000 -0300" stop="20180706024500 -0300" channel="BandNews">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Um resumo de tudo que aconteceu de relevante durante o dia, no Brasil e no Mundo. Analises, entrevistas e matérias especiais aprofundam os temas mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706024500 -0300" stop="20180706030000 -0300" channel="BandNews">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706030000 -0300" stop="20180706033000 -0300" channel="BandNews">
+    <title lang="pt">Ponto a Ponto</title>
+    <desc lang="pt">A jornalista Mônica Bergamo e o cientista político Antônio Lavareda recebem convidados para discutir os temas mais importantes da política e do setor público na atualidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706033000 -0300" stop="20180706043000 -0300" channel="BandNews">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706043000 -0300" stop="20180706050000 -0300" channel="BandNews">
+    <title lang="pt">Jornal Terraviva</title>
+    <desc lang="pt">Reapresentação das principais notícias do agronegócio brasileiro em um telejornal produzido pelo canal Terraviva(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706050000 -0300" stop="20180706060000 -0300" channel="BandNews">
+    <title lang="pt">Madrugada Bandnews</title>
+    <desc lang="pt">As notícias não param nem durante a madrugada e o BandNews também não. Jornais atualizados com as principais  informações a cada 30 minutos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706074000 -0300" channel="BandNews">
+    <title lang="pt">Jornal BandNews: 1ª Edição</title>
+    <desc lang="pt">Principais notícias do Brasil e do mundo, o trânsito e a previsão do tempo. Rafael Colombo comanda o Jornal BandNews: 1ª edição com muita prestação de serviço e a análise dos assuntos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706074000 -0300" stop="20180706120000 -0300" channel="BandNews">
+    <title lang="pt">Manhã Bandnews</title>
+    <desc lang="pt">A atualização das notícias da manhã e tudo o que é importante para você ficar ligado ao longo do dia estão no Manhã BandNews(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706120000 -0300" stop="20180706140000 -0300" channel="BandNews">
+    <title lang="pt">Bandnews No Meio do Dia</title>
+    <desc lang="pt">O que já foi notícia, as informações do momento e o que ainda será destaque ao longo do dia. No BandNews no Meio do Dia, o jornalista Eduardo Barão apresenta os fatos mais importantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706140000 -0300" stop="20180706180000 -0300" channel="BandNews">
+    <title lang="pt">Tarde Bandnews</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, você encontra no Tarde BandNews. Coberturas ao vivo e a participação de repórteres espalhados por todo o país e pelo exterior(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706200000 -0300" channel="BandNews">
+    <title lang="pt">Jornal BandNews: 2ª Edição</title>
+    <desc lang="pt">No fim da tarde, você fica bem informado sobre tudo o que aconteceu de importante e também as notícias do momento no Jornal BandNews: 2ª Edição(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706200000 -0300" stop="20180706203000 -0300" channel="BandNews">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706203000 -0300" stop="20180706213000 -0300" channel="BandNews">
+    <title lang="pt">Jornal da Band</title>
+    <desc lang="pt">Os principais fatos no Brasil e no Mundo relatados com imparcialidade e profundidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706213000 -0300" stop="20180706220000 -0300" channel="BandNews">
+    <title lang="pt">Expresso Bandnews</title>
+    <desc lang="pt">Um telejornal para quem não tem tempo a perder. As principais notícias em um formato rápido e dinâmico(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706220000 -0300" stop="20180706223000 -0300" channel="BandNews">
+    <title lang="pt">Conexão com The New York Times</title>
+    <desc lang="pt">Programa com matérias jornalisticas em parceria com o The New York Times(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706223000 -0300" stop="20180706235000 -0300" channel="BandNews">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706235000 -0300" stop="20180707000000 -0300" channel="BandNews">
+    <title lang="pt">Coluna e Meia com Salomão</title>
+    <desc lang="pt">Salomão Schvartzman traz a cada semana uma crônica sobre os temas mais importantes da atualidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706000000 -0300" stop="20180706005900 -0300" channel="Cinemax">
+    <title lang="pt">Game of Thrones - S2E4</title>
+    <desc lang="pt">Joffrey pune Sansa pela vitória de Robb, enquanto Tyrion e Bronn lutam para abrandar a crueldade do rei. Enquanto isso, Catelyn pede a Stannis e Renly que deixem de lado suas próprias ambições e se unam contra os Lannisters(n)</desc>
+    <date>2012</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706005900 -0300" stop="20180706031500 -0300" channel="Cinemax">
+    <title lang="pt">O Abutre</title>
+    <desc lang="pt">Louis Bloom é um ladrão atrás de trabalho. Depois de testemunhar um trágico acidente, ele vê um homem que filma tudo e vende o material a canais de TV. Louis acredita que esse poderia ser seu novo trabalho(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706031500 -0300" stop="20180706045600 -0300" channel="Cinemax">
+    <title lang="pt">Possessão de Deborah Logan</title>
+    <desc lang="pt">Mia prepara sua tese de doutorado sobre o mal de Alzheimer e registra em vídeos o caso da paciente Deborah Logan, na casa dela. Em certo momento, a mulher começa a piorar e ocorrem fatos sobrenaturais que colocam em perigo a equipe de Mia(n)</desc>
+    <date>2014</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706045600 -0300" stop="20180706064500 -0300" channel="Cinemax">
+    <title lang="pt">Um Inglês na América</title>
+    <desc lang="pt">Jovem e requintado inglês, especialista em artes plásticas, é enviado para o interior dos EUA com a missão de localizar um valioso quadro de Renoir. Além do choque cultural, ele tem de suportar o excêntrico homem de negócios que está com a obra(n)</desc>
+    <date>1988</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706064500 -0300" stop="20180706070700 -0300" channel="Cinemax">
+    <title lang="pt">Festival de Cinema de Los Cabos 2018</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706070700 -0300" stop="20180706083600 -0300" channel="Cinemax">
+    <title lang="pt">A Liga da Justiça e Os Jovens Titãs</title>
+    <desc lang="pt">Após causar o fracasso de uma missão da Liga da Justiça, Robin deve unir-se aos Jovens Titãs, que enfrentam um novo desafio, pois o vilão Trigon está tramando um novo plano para dominar o mundo(n)</desc>
+    <date>2016</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706083600 -0300" stop="20180706090600 -0300" channel="Cinemax">
+    <title lang="pt">Festival de Cinema de Berlim 2018</title>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706090600 -0300" stop="20180706110700 -0300" channel="Cinemax">
+    <title lang="pt">Sophie</title>
+    <desc lang="pt">Sophie é uma jovem com um grande talento para a dança. Sua melhor amiga é Sheba, uma elefanta do zoológico de seus pais, mas quando se veem forçados a vendê-la a um circo, Sophie decidirá ir atrás para resgatá-la(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>Canadá</country>
+  </programme>
+  <programme start="20180706110700 -0300" stop="20180706123900 -0300" channel="Cinemax">
+    <title lang="pt">A Mil Beijos de Profundidade</title>
+    <desc lang="pt">Mia é testemunha da morte de uma idosa no prédio onde vive. A partir desse momento, algo estranho acontece e ela começa a viajar para diferentes momentos de seu passado para evitar que seu conturbado ex-namorado possa machucá-la(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+    <country>EUA/Grã-Bretanha</country>
+  </programme>
+  <programme start="20180706123900 -0300" stop="20180706143800 -0300" channel="Cinemax">
+    <title lang="pt">Meninos do Espaço</title>
+    <desc lang="pt">Jason e Kyle resolvem matar aula e visitar o aeroporto local. Lá, eles resolvem entrar em um dos aviões e o que era para ser uma tarde divertida, acaba tornando-se a maior aventura de suas vidas(n)</desc>
+    <date>2008</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706143800 -0300" stop="20180706162200 -0300" channel="Cinemax">
+    <title lang="pt">O Feiticeiro e a Serpente Branca</title>
+    <desc lang="pt">Em uma antiga terra habitada por seres místicos, um poderoso monge lutará pela alma de um jovem que caiu nas redes do demônio. Ele poderá salvar o homem que está apaixonado pela sua perigosa captora?(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>China/Hong Kong</country>
+  </programme>
+  <programme start="20180706162200 -0300" stop="20180706180300 -0300" channel="Cinemax">
+    <title lang="pt">Eu Odeio Meu Emprego</title>
+    <desc lang="pt">Cinco mulheres trabalham em um restaurante de Londres e tem algumas ilusões de grandeza. Elas se veem como artistas, atrizes, autoras, amantes e revolucionárias(n)</desc>
+    <date>2007</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+    <country>Inglaterra</country>
+  </programme>
+  <programme start="20180706180300 -0300" stop="20180706202200 -0300" channel="Cinemax">
+    <title lang="pt">O Lado Bom da Vida</title>
+    <desc lang="pt">Pat Solitano Jr. perdeu a sua casa e arruinou o seu casamento. Depois de tratamento médico mas ainda instável, conhece Tiffany, que causará mudanças na sua vida(n)</desc>
+    <date>2013</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706202200 -0300" stop="20180706220700 -0300" channel="Cinemax">
+    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
+    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas(n)</desc>
+    <date>2011</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>Emirados Árabes Unidos</country>
+  </programme>
+  <programme start="20180706220700 -0300" stop="20180707000000 -0300" channel="Cinemax">
+    <title lang="pt">Fúria de Titãs</title>
+    <desc lang="pt">Perseu, o filho mortal de Zeus, embarca em uma perigosa viagem para impedir que os seres das profundezas espalhem sua maldade na Terra e nos céus(n)</desc>
+    <date>2010</date>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+    <country>EUA</country>
+  </programme>
+  <programme start="20180706000000 -0300" stop="20180706003000 -0300" channel="CNNe">
+    <title lang="pt">Aristegui</title>
+    <desc lang="pt">Aqueles que são notícia, personagens do momento, líderes de opinião. Tudo isto e muito mais apresentado por Carmen Aristegui, uma das mais jornalistas mais carismáticas do México(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706003000 -0300" stop="20180706010000 -0300" channel="CNNe">
+    <title lang="pt">Deportes CNN</title>
+    <desc lang="pt">As melhores jogadas do dia, os encontros mais espetaculares, entrevistas com as figuras esportivas do momento e análises das principais partidas(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180706010000 -0300" stop="20180706020000 -0300" channel="CNNe">
+    <title lang="pt">Perspectivas Desde México</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706020000 -0300" stop="20180706030000 -0300" channel="CNNe">
+    <title lang="pt">Directo USA con Juan Carlos Lopez</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706030000 -0300" stop="20180706040000 -0300" channel="CNNe">
+    <title lang="pt">Conclusiones</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706040000 -0300" stop="20180706050000 -0300" channel="CNNe">
+    <title lang="pt">Camilo</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA/Espanha</country>
+  </programme>
+  <programme start="20180706050000 -0300" stop="20180706060000 -0300" channel="CNNe">
+    <title lang="pt">Perspectivas Desde Buenos Aires</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706070000 -0300" channel="CNNe">
+    <title lang="pt">CNN Dinero</title>
+    <desc lang="pt">CNN Dinero aborda o dinâmico mundo dos negócios de uma forma simples, inteligente e compreensível. O programa traz as últimas notícias sobre finanças apresentadas pelos maiores experts da área e também serve como um guia diário(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706070000 -0300" stop="20180706090000 -0300" channel="CNNe">
+    <title lang="pt">Café CNN live</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706090000 -0300" stop="20180706100000 -0300" channel="CNNe">
+    <title lang="pt">Café CNN</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706100000 -0300" stop="20180706110000 -0300" channel="CNNe">
+    <title lang="pt">Café CNN</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706110000 -0300" stop="20180706113000 -0300" channel="CNNe">
+    <title lang="pt">Aristegui</title>
+    <desc lang="pt">Aqueles que são notícia, personagens do momento, líderes de opinião. Tudo isto e muito mais apresentado por Carmen Aristegui, uma das mais jornalistas mais carismáticas do México(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706113000 -0300" stop="20180706120000 -0300" channel="CNNe">
+    <title lang="pt">Clix</title>
+    <desc lang="pt">Apresentado por Guillermo Arduino, Clix nos mantém informados sobre a segurança e a etiqueta no mundo virtual, os últimos jargões, os novos gadgets e as opções de entretenimento doméstico. Clix é um programa de TV do futuro(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706120000 -0300" stop="20180706123000 -0300" channel="CNNe">
+    <title lang="pt">GloboEconomia</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706123000 -0300" stop="20180706130000 -0300" channel="CNNe">
+    <title lang="pt">Destinos</title>
+    <desc lang="pt">O programa semanal de viagens que leva o telespectador às regiões mais exóticas e emocionantes do globo, explorando não só os recantos turísticos como também os tesouros históricos e o lado romântico de cada lugar(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706130000 -0300" stop="20180706140000 -0300" channel="CNNe">
+    <title lang="pt">Realidades en Contexto</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706140000 -0300" stop="20180706150000 -0300" channel="CNNe">
+    <title lang="pt">Camilo</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA/Espanha</country>
+  </programme>
+  <programme start="20180706150000 -0300" stop="20180706160000 -0300" channel="CNNe">
+    <title lang="pt">Portafolio Global</title>
+    <desc lang="pt">Portafolio global é a chave que abre a porta para a compreensão das histórias de sucesso e fracasso atrás de política e economia. Apresentado pela jornalista Gabriela Frías(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706160000 -0300" stop="20180706170000 -0300" channel="CNNe">
+    <title lang="pt">Encuentro</title>
+    <desc lang="pt">Uma visão rápida e interativa pelas manchetes do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706170000 -0300" stop="20180706180000 -0300" channel="CNNe">
+    <title lang="pt">Panorama Mundial</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706190000 -0300" channel="CNNe">
+    <title lang="pt">Directo USA con Juan Carlos Lopez</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706190000 -0300" stop="20180706200000 -0300" channel="CNNe">
+    <title lang="pt">Perspectivas Desde México</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706200000 -0300" stop="20180706210000 -0300" channel="CNNe">
+    <title lang="pt">Perspectivas Desde Buenos Aires</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706210000 -0300" stop="20180706220000 -0300" channel="CNNe">
+    <title lang="pt">CNN Dinero</title>
+    <desc lang="pt">CNN Dinero aborda o dinâmico mundo dos negócios de uma forma simples, inteligente e compreensível. O programa traz as últimas notícias sobre finanças apresentadas pelos maiores experts da área e também serve como um guia diário(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706220000 -0300" stop="20180706230000 -0300" channel="CNNe">
+    <title lang="pt">Camilo</title>
+    <date>2011</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+    <country>EUA/Espanha</country>
+  </programme>
+  <programme start="20180706230000 -0300" stop="20180707000000 -0300" channel="CNNe">
+    <title lang="pt">Conclusiones</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706000000 -0300" stop="20180706013000 -0300" channel="Combo Cine">
+    <title lang="pt">Combo em Cartaz</title>
+    <desc lang="pt">Filmes que fizeram bastante sucesso no passado e que nos dias de hoje ainda ocupam lugar de destaque no cenário cinematográfico mundial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706013000 -0300" stop="20180706060000 -0300" channel="Combo Cine">
+    <title lang="pt">Trinca de Ouro</title>
+    <desc lang="pt">Exibição sequencial de 03 filmes que fizeram sucesso de bilheteria(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706073000 -0300" channel="Combo Cine">
+    <title lang="pt">Memória Combo</title>
+    <desc lang="pt">Filmes marcantes que valem a pena ver de novo por conta do sucesso que fez e por ter ficado na memória de muita gente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706073000 -0300" stop="20180706090000 -0300" channel="Combo Cine">
+    <title lang="pt">Sessão Combo</title>
+    <desc lang="pt">Espaço para exibição de filmes clássicos que resistiram ao tempo e que ainda fazem sucesso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706090000 -0300" stop="20180706093000 -0300" channel="Combo Cine">
+    <title lang="pt">Super Desenhos</title>
+    <desc lang="pt">Os antigos Super Heróis dos desenhos, Anime e Tokusatsu vão mostrar para a galera como que se derrota os vilões(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20180706093000 -0300" stop="20180706103000 -0300" channel="Combo Cine">
+    <title lang="pt">Cine Hits</title>
+    <desc lang="pt">Flashbacks dos filmes épicos do cinema: Disco Nusic, Baladas Românticas e Música Clássica(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20180706103000 -0300" stop="20180706110000 -0300" channel="Combo Cine">
+    <title lang="pt">Kids Combo</title>
+    <desc lang="pt">Exibição de produções voltadas para crianças, capazes de promover educação, entretenimento, educação e diversão(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706110000 -0300" stop="20180706120000 -0300" channel="Combo Cine">
+    <title lang="pt">Cine Séries Clássicas</title>
+    <desc lang="pt">Por que não ver uma série antiga? Elas fizeram o maior sucesso e merecem uma continuação imediatamente!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706120000 -0300" stop="20180706133000 -0300" channel="Combo Cine">
+    <title lang="pt">Cine Cult</title>
+    <desc lang="pt">No Cine Cult você assiste aos grandes clássicos do mundo inteiro e as raras obras de diretores e atores renomados(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706133000 -0300" stop="20180706150000 -0300" channel="Combo Cine">
+    <title lang="pt">Sala Especial</title>
+    <desc lang="pt">Exibição de filmes especiais que marcaram época e fizeram parte da história de muita gente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706150000 -0300" stop="20180706163000 -0300" channel="Combo Cine">
+    <title lang="pt">Sessão Combo</title>
+    <desc lang="pt">Espaço para exibição de filmes clássicos que resistiram ao tempo e que ainda fazem sucesso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706163000 -0300" stop="20180706180000 -0300" channel="Combo Cine">
+    <title lang="pt">Memória Combo</title>
+    <desc lang="pt">Filmes marcantes que valem a pena ver de novo por conta do sucesso que fez e por ter ficado na memória de muita gente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706193000 -0300" channel="Combo Cine">
+    <title lang="pt">Combo em Cartaz</title>
+    <desc lang="pt">Filmes que fizeram bastante sucesso no passado e que nos dias de hoje ainda ocupam lugar de destaque no cenário cinematográfico mundial(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706193000 -0300" stop="20180706210000 -0300" channel="Combo Cine">
+    <title lang="pt">Memória Combo</title>
+    <desc lang="pt">Filmes marcantes que valem a pena ver de novo por conta do sucesso que fez e por ter ficado na memória de muita gente(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706210000 -0300" stop="20180706223000 -0300" channel="Combo Cine">
+    <title lang="pt">Sessão Combo</title>
+    <desc lang="pt">Espaço para exibição de filmes clássicos que resistiram ao tempo e que ainda fazem sucesso(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706223000 -0300" stop="20180706233000 -0300" channel="Combo Cine">
+    <title lang="pt">Cine Hits</title>
+    <desc lang="pt">Flashbacks dos filmes épicos do cinema: Disco Nusic, Baladas Românticas e Música Clássica(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20180706233000 -0300" stop="20180707000000 -0300" channel="Combo Cine">
+    <title lang="pt">Cine Séries Clássicas</title>
+    <desc lang="pt">Por que não ver uma série antiga? Elas fizeram o maior sucesso e merecem uma continuação imediatamente!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20180706003000 -0300" stop="20180706011500 -0300" channel="Globo Rio">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">O 'Conversa com Bial' vai reunir, em um só lugar, assuntos que possam ser relevantes ao espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706011500 -0300" stop="20180706030000 -0300" channel="Globo Rio">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706030000 -0300" stop="20180706050000 -0300" channel="Globo Rio">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706050000 -0300" stop="20180706060000 -0300" channel="Globo Rio">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706071500 -0300" channel="Globo Rio">
+    <title lang="pt">Bom Dia Rio</title>
+    <desc lang="pt">Telejornal que traz as notíciais locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706071500 -0300" stop="20180706093000 -0300" channel="Globo Rio">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706093000 -0300" stop="20180706103000 -0300" channel="Globo Rio">
+    <title lang="pt">Copa 2018 - Ao Vivo</title>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706103000 -0300" stop="20180706143000 -0300" channel="Globo Rio">
+    <title lang="pt">Copa 2018: Uruguai x França - Ao Vivo</title>
+    <desc lang="pt">Acompanhe ao vivo os jogos da Copa do Mundo da FIFA 2018 na Rússia(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706143000 -0300" stop="20180706180000 -0300" channel="Globo Rio">
+    <title lang="pt">Copa 2018: Brasil x Bélgica - Ao Vivo</title>
+    <desc lang="pt">Acompanhe ao vivo os jogos da Copa do Mundo da FIFA 2018 na Rússia(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706182500 -0300" channel="Globo Rio">
+    <title lang="pt">Malhação: Vidas Brasileiras E87</title>
+    <desc lang="pt">Talíssia orienta Alex sobre seu comportamento. A turma do Sapiência desconfia dos presentes misteriosos que alguns alunos estão recebendo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706182500 -0300" stop="20180706191500 -0300" channel="Globo Rio">
+    <title lang="pt">Orgulho e Paixão E94</title>
+    <desc lang="pt">Darcy fica arrasado pelo ocorrido com Briana. Brandão exige explicações de Mário/Mariana. Susana se encontra com Xavier no hotel(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706191500 -0300" stop="20180706193500 -0300" channel="Globo Rio">
+    <title lang="pt">RJ2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706193500 -0300" stop="20180706203000 -0300" channel="Globo Rio">
+    <title lang="pt">Deus Salve o Rei E154</title>
+    <desc lang="pt">Amália se desespera quando Constância e Tiago lhe avisam da gravidez de Catarina. Afonso explica a Amália que não se lembra do que aconteceu e diz à amada que nada mudará entre eles(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706203000 -0300" stop="20180706212000 -0300" channel="Globo Rio">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706212000 -0300" stop="20180706222000 -0300" channel="Globo Rio">
+    <title lang="pt">Segundo Sol E47</title>
+    <desc lang="pt">Rochelle ofende Karen na frente de Roberval e diz admirar o empresário. Laureta e Ícaro descobrem que Rosa reatou o namoro com Valentim(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706222000 -0300" stop="20180706231500 -0300" channel="Globo Rio">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Reportagens especiais em edições temáticas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706231500 -0300" stop="20180706235500 -0300" channel="Globo Rio">
+    <title lang="pt">Onde Nascem os Fortes E46</title>
+    <desc lang="pt">Hermano conta a Maria que Simplício se envolveu com sua mãe. Valquíria se descontrola com a demora de Hermano(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706235500 -0300" stop="20180707004000 -0300" channel="Globo Rio">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Tiago Leifert e Bárbara Coelho recebem plateia e convidados especiais e mostram tabelas, resultados, estatísticas e vídeos da cobertura de jogos da Seleção(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180706003000 -0300" stop="20180706011500 -0300" channel="Globo SP">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">O 'Conversa com Bial' vai reunir, em um só lugar, assuntos que possam ser relevantes ao espectador independentemente da forma como eles serão apresentados(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706011500 -0300" stop="20180706030000 -0300" channel="Globo SP">
+    <title lang="pt">Corujão</title>
+    <desc lang="pt">Sessão de filmes, séries e desenhos das madrugadas da Globo(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706030000 -0300" stop="20180706050000 -0300" channel="Globo SP">
+    <title lang="pt">Corujão II</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20180706050000 -0300" stop="20180706060000 -0300" channel="Globo SP">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Monalisa Perrone(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706071500 -0300" channel="Globo SP">
+    <title lang="pt">Bom Dia São Paulo</title>
+    <desc lang="pt">O telejornal traz as primeiras notícias do dia no seu estado, com entrevistas, acontecimentos, previsão do tempo, trânsito e resultados da última rodada esportiva entre outras informações(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706071500 -0300" stop="20180706093000 -0300" channel="Globo SP">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706093000 -0300" stop="20180706104000 -0300" channel="Globo SP">
+    <title lang="pt">Copa 2018 - Ao Vivo</title>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706104000 -0300" stop="20180706143000 -0300" channel="Globo SP">
+    <title lang="pt">Copa 2018: Uruguai x França - Ao Vivo</title>
+    <desc lang="pt">Acompanhe ao vivo os jogos da Copa do Mundo da FIFA 2018 na Rússia(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706143000 -0300" stop="20180706180000 -0300" channel="Globo SP">
+    <title lang="pt">Copa 2018: Brasil x Bélgica - Ao Vivo</title>
+    <desc lang="pt">Acompanhe ao vivo os jogos da Copa do Mundo da FIFA 2018 na Rússia(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706182500 -0300" channel="Globo SP">
+    <title lang="pt">Malhação: Vidas Brasileiras E87</title>
+    <desc lang="pt">Talíssia orienta Alex sobre seu comportamento. A turma do Sapiência desconfia dos presentes misteriosos que alguns alunos estão recebendo(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706182500 -0300" stop="20180706191500 -0300" channel="Globo SP">
+    <title lang="pt">Orgulho e Paixão E94</title>
+    <desc lang="pt">Darcy fica arrasado pelo ocorrido com Briana. Brandão exige explicações de Mário/Mariana. Susana se encontra com Xavier no hotel(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706191500 -0300" stop="20180706193500 -0300" channel="Globo SP">
+    <title lang="pt">SP2</title>
+    <desc lang="pt">Telejornal que traz as notícias locais, mostrando o que acontece na sua região, com prestação de serviço, boletins de trânsito e a previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706193500 -0300" stop="20180706203000 -0300" channel="Globo SP">
+    <title lang="pt">Deus Salve o Rei E154</title>
+    <desc lang="pt">Amália se desespera quando Constância e Tiago lhe avisam da gravidez de Catarina. Afonso explica a Amália que não se lembra do que aconteceu e diz à amada que nada mudará entre eles(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706203000 -0300" stop="20180706212000 -0300" channel="Globo SP">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706212000 -0300" stop="20180706222000 -0300" channel="Globo SP">
+    <title lang="pt">Segundo Sol E47</title>
+    <desc lang="pt">Rochelle ofende Karen na frente de Roberval e diz admirar o empresário. Laureta e Ícaro descobrem que Rosa reatou o namoro com Valentim(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706222000 -0300" stop="20180706231500 -0300" channel="Globo SP">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Reportagens especiais em edições temáticas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706231500 -0300" stop="20180706235500 -0300" channel="Globo SP">
+    <title lang="pt">Onde Nascem os Fortes E46</title>
+    <desc lang="pt">Hermano conta a Maria que Simplício se envolveu com sua mãe. Valquíria se descontrola com a demora de Hermano(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706235500 -0300" stop="20180707004000 -0300" channel="Globo SP">
+    <title lang="pt">Central da Copa</title>
+    <desc lang="pt">Tiago Leifert e Bárbara Coelho recebem plateia e convidados especiais e mostram tabelas, resultados, estatísticas e vídeos da cobertura de jogos da Seleção(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20180706003000 -0300" stop="20180706010000 -0300" channel="GloboNews">
+    <title lang="pt">Conta Corrente</title>
+    <desc lang="pt">O único jornal diário de Economia da televisão brasileira analisa em profundidade as transformações urgentes de um mundo cada vez mais globalizado(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706010000 -0300" stop="20180706013000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 01h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706013000 -0300" stop="20180706023000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews em Pauta</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706023000 -0300" stop="20180706030000 -0300" channel="GloboNews">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706030000 -0300" stop="20180706030500 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706030500 -0300" stop="20180706033000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt">Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706033000 -0300" stop="20180706040000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Alexandre Garcia</title>
+    <desc lang="pt">Direto de Brasília, a política brasileira e temas ligados à cidadania. Um debate amplo, que contribui para o entendimento da realidade nacional e seus reflexos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706040000 -0300" stop="20180706041000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 04h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706041000 -0300" stop="20180706050000 -0300" channel="GloboNews">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Reportagens especiais em edições temáticas(n)</desc>
+    <date>2018</date>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706050000 -0300" stop="20180706060000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706060000 -0300" stop="20180706063000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 06h - Ao Vivo</title>
+    <desc lang="pt">O jornal traz as principais notícias do início do dia, com apresentação de Erick Bang. Desde cedo, a equipe do canal prepara um material completo com as informações mais importantes sobre política, economia, cidades, além da previsão do tempo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706063000 -0300" stop="20180706070000 -0300" channel="GloboNews">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706070000 -0300" stop="20180706073000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 07h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706073000 -0300" stop="20180706080000 -0300" channel="GloboNews">
+    <title lang="pt">Diálogos com Mario Sergio Conti</title>
+    <desc lang="pt">Programa de entrevistas, sobre temas políticos, culturais, artísticos, científicos e sociais, sempre da atualidade(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706080000 -0300" stop="20180706083000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706083000 -0300" stop="20180706090000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Miriam Leitão</title>
+    <desc lang="pt">Discussão dos principais assuntos da economia e da política e como eles afetam o país. Também trata de questões ambientais e da história do Brasil(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706090000 -0300" stop="20180706100000 -0300" channel="GloboNews">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">Chico Pinheiro e Ana Paula Araújo apresentam as primeiras notícias do dia no Brasil e no mundo e repercutem os fatos mais relevantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706100000 -0300" stop="20180706123000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706123000 -0300" stop="20180706130000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Alexandre Garcia</title>
+    <desc lang="pt">Direto de Brasília, a política brasileira e temas ligados à cidadania. Um debate amplo, que contribui para o entendimento da realidade nacional e seus reflexos(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706130000 -0300" stop="20180706140000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Internacional - Ao Vivo</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20180706140000 -0300" stop="20180706150000 -0300" channel="GloboNews">
+    <title lang="pt">Estúdio i - Ao Vivo</title>
+    <desc lang="pt">Entretenimento. Artistas e comentaristas discutem as principais notícias do dia. Interatividade com o público(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706150000 -0300" stop="20180706153000 -0300" channel="GloboNews">
+    <title lang="pt">Arquivo N</title>
+    <desc lang="pt">Um trabalho minucioso de pesquisa sobre fatos e pessoas que marcaram a história num programa com imagens de arquivo inesquecíveis e emocionantes(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706153000 -0300" stop="20180706160000 -0300" channel="GloboNews">
+    <title lang="pt">Cidades e Soluções</title>
+    <desc lang="pt">Iniciativas bem sucedidas no Brasil e no mundo que promovem a qualidade de vida e o uso inteligente dos recursos naturais(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706160000 -0300" stop="20180706180000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal GloboNews - Edição das 16h - Ao Vivo</title>
+    <desc lang="pt">Direto do Estúdio da GloboNews, em São Paulo, o Edição das 16 horas traz as principais notícias da tarde e a repercussão no Brasil e no mundo de todos os assuntos do dia(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706180000 -0300" stop="20180706200000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20180706200000 -0300" stop="20180706210000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews em Pauta - Ao Vivo</title>
+    <desc lang="pt">Telejornal diário, com comentaristas que aprofundam as notícias do dia, com um convidado no estúdio. Destaque para política, cenário internacional e cultura(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706210000 -0300" stop="20180706213000 -0300" channel="GloboNews">
+    <title lang="pt">Conta Corrente - Ao Vivo</title>
+    <desc lang="pt">O Conta Corrente é o jornal diário de economia. Durante trinta minutos, ao vivo, traz as principais notícias do Brasil e do mundo que mexem com a vida e o bolso do telespectador(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706213000 -0300" stop="20180706220000 -0300" channel="GloboNews">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20180706220000 -0300" stop="20180706230000 -0300" channel="GloboNews">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Apresentado ao vivo do RJ, SP e Brasilia, NY e Washington. Comentaristas e correspondentes na América do Sul, Europa e Oriente Médio analisam as notícias(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706230000 -0300" stop="20180706233000 -0300" channel="GloboNews">
+    <title lang="pt">Fatos e Versões</title>
+    <desc lang="pt">Cristiana Lôbo recebe, no estúdio, jornalistas renomados de jornais e revistas para detalhar os principais temas da semana em Brasília, revelando bastidores na política, na economia e no Judiciário(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Político</category>
+    <country>Brasil</country>
+  </programme>
+  <programme start="20180706233000 -0300" stop="20180707003000 -0300" channel="GloboNews">
+    <title lang="pt">GloboNews Internacional</title>
+    <desc lang="pt">Uma conversa sobre os principais assuntos internacionais da semana, irreverente, mas sempre com muita informação(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+</tv>
